@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Nuclear Physics. WKU Physics and Mathematics B.S. '18. Here is my CV.
 
 You can use the [editor on GitHub](https://github.com/loomisdevon/loomisdevon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
