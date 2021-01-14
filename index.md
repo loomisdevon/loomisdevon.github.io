@@ -1,5 +1,7 @@
 Nuclear Physics. WKU Physics and Mathematics B.S. '18. [Here](/files/CV_for_freshers(12).pdf) is my CV.
 
+![Image](/files/IMG-0450.JPG)
+
 You can use the [editor on GitHub](https://github.com/loomisdevon/loomisdevon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
