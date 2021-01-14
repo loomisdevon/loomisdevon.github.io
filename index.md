@@ -1,4 +1,4 @@
-Nuclear Physics. WKU Physics and Mathematics B.S. '18. Here is my CV.
+Nuclear Physics. WKU Physics and Mathematics B.S. '18. [Here](/files/CV_for_freshers(12).pdf) is my CV.
 
 You can use the [editor on GitHub](https://github.com/loomisdevon/loomisdevon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
